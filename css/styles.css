@@ -1,5 +1,6 @@
+/************** TAG SELECTORS *************/
 body {
-  background-color: #ffecc7;
+  background-color: white;
 }
 
 hr {
@@ -11,9 +12,26 @@ hr {
 }
 
 h1 {
-  color: #0c7b93;
+  color: #6f0000;
 }
 
 h3 {
-  color: #0c7b93;
+  color: #6f0000;
+}
+
+/************** CLASS SELECTORS *************/
+
+.employment {
+  background-color: #00263b;
+  color: #00a1ab;
+}
+.employment:hover {
+  color: #ff5200;
+  font-weight: bolder;
+}
+
+/************** ID SELECTORS *************/
+
+#heading {
+  background-color: #ff5200;
 }
