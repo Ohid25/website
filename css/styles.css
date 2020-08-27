@@ -26,17 +26,6 @@ h3 {
   font-family: "Philosopher";
 }
 
-/************** CLASS SELECTORS *************/
-
-.employment {
-  background-color: #00263b;
-  color: #00a1ab;
-}
-.employment:hover {
-  color: #ff5200;
-  font-weight: bolder;
-}
-
 /************** ID SELECTORS *************/
 
 #heading {
